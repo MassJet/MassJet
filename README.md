@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MassJet
 - 👀 I’m interested in python, pygame, and tkinter
-- 🌱 I’m currently learning python
+- 🌱 I’m currently making a text editor using customtkinter
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 How to reach me <details>
     <summary></summary>
